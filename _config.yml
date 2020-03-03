@@ -1,13 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Lisa Studio
+title: Lisa Studio
+description: Hello, I am Lisa. Freelance writer. Be able to write accurate and conversational stories that follow the facts and reference video and graphics. Pay attention to detail, including fact-checking, grammar, spelling. Be highly organized as well as possess creative production skills. Use strong editorial judgement.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  # - blog
+  # - template
+  # - jekyll
+  # - theme
+  # - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
@@ -56,7 +56,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
@@ -100,4 +100,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.0.2
+version: v0.0.1
