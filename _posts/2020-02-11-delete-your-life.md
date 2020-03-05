@@ -8,12 +8,11 @@ optimized_image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171
 category: life
 tags:
   - life
+author: Lisa Zhu
 ---
 
 {% highlight markdown %}
-
 【あなたの死後、不要となるデータを削除いたします。】  『dele.LIFE』で働く圭司と祐太郎の仕事は、秘密のデータを消すだけ――のはずだった。 あなたの記憶に刻まれる、〈生〉と〈死〉、〈記憶〉と〈記録〉をめぐる連作ミステリ！
-
 {% endhighlight %}
 
 In the current era of the internet, China has exceeded 800 million users. ell phones, computers, mobile hard disks or cloud saves are all options for information storage. How many secrets can be kept under the palm sized screens we carry every day?

@@ -7,6 +7,7 @@ optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,
 category: technology
 tags:
   - technology
+author: Lisa Zhu
 ---
 
 People who have been in Times Square in Manhattan these days will see the words Blockchain at the Nasdaq’s big screen at the crossroads of the world.

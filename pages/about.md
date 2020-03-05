@@ -5,7 +5,7 @@ description: Why I choose to be a freelance writer
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile_lisa.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://res.cloudinary.com/dmfnzbe9x/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1583383899/WechatIMG754_sfild3.jpg" alt="Thiago Rossener" width="200">
 
 ## Why I choose to be a freelance writer
 

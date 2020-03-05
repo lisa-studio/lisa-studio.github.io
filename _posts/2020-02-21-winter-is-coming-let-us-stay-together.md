@@ -7,6 +7,7 @@ optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,
 category: life
 tags:
   - life
+author: Lisa Zhu
 ---
 We are all pioneers of the world,
 And have passed each other countless times.
