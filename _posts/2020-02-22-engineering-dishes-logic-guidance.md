@@ -7,7 +7,7 @@ optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,
 category: technology
 tags:
   - technology
-author: Lisa Zhu
+author: lisa
 ---
 
 The culture of a region and the local delicacies are always inseparable. This applies to small villages or large cities, each would have their unique "taste".

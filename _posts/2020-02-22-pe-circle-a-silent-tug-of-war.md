@@ -7,7 +7,7 @@ optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,
 category: technology
 tags:
   - technology
-author: Lisa Zhu
+author: lisa
 ---
 
 Strange stories often surface the PE circle, but there has been an unusual abundance this year.

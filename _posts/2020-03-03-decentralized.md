@@ -7,7 +7,7 @@ optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,
 category: technology
 tags:
   - technology
-author: Lisa Zhu
+author: lisa
 ---
 
 Cryptocurrency will definitely become the new development trend with the influence of the Internet
