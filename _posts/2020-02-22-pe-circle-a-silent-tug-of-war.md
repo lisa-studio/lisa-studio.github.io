@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  PE Circle, a silent tug of war
+description: PE ﬁrms now face one of the most challenging periods for deployment on record. Success will depend on ﬁrms' ability to remain disciplined, innovative and technology.
 date:   2020-02-22 10:03:35 +0800
 image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/v1583242377/pe_eemw3o.jpg
 optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583242377/pe_eemw3o.jpg
-category: technology
+category: financial
 tags:
-  - technology
+  - financial
 author: lisa
 ---
 

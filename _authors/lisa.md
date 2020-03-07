@@ -7,10 +7,10 @@ position: Chief Editor
 bio: If you have any questions, please contact me at 13671595458 or email me at 13671595458@163.com for any kinds of contributions or cooperations.
 # github_username: thiagorossener
 # facebook_username: thiagorossener
-# twitter_username: thiagorossener
-# instagram_username: thiagorossener
+twitter_username: jN8ohkZYyToX6GP
+instagram_username: lisastudio8
 # linkedin_username: thiagorossener
-# medium_username: thiagorossener
+medium_username: jN8ohkZYyToX6GP
 ---
 
 

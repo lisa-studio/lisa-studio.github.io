@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  'The Lonely Planet: “Analysis” of the blockchain utopia dream'
+description: If you don’t want to live under a specific government, you have the option to move to another island in the future.
 date:   2020-03-04 10:57:35 +0800
 image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/v1583381383/WechatIMG717_jvwrpm.jpg
 optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583381383/WechatIMG717_jvwrpm.jpg

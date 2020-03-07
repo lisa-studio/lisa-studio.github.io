@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  You will be attentive after "dele ディーリー"
-subtitle:
+description: What you want to leave when you die?
 date: 2020-02-18 15:01:35 +0800
 image: https://res.cloudinary.com/dmfnzbe9x/image/upload/v1583239477/delete_life/06_pjjthz.jpg
 optimized_image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583239477/delete_life/06_pjjthz.jpg
-category: life
+category: movie
 tags:
-  - life
+  - movie
 author: lisa
 ---
 

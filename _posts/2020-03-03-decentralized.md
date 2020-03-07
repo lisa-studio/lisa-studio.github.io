@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  If 10% to 20% is decentralized, then we should leave the remaining 80% to the country!
+description: 20% of respondents reported that they run some form of decentralized marketing organization today
 date:   2020-03-03 17:57:35 +0800
 image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/v1583242538/12_wdfc3m.jpg
 optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583242538/12_wdfc3m.jpg
-category: technology
+category: financial
 tags:
-  - technology
+  - financial
 author: lisa
 ---
 
