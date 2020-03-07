@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Engineering dishes, logic guidance
+description: The process of predicting a cuisine through ingredients is the improvement of code, model optimization, and accuracy of classification and matching.
 date:   2020-02-22 10:03:35 +0800
 image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/c_scale,w_730/v1583240812/engineering/06_bfecgs.jpg
 optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583240812/engineering/06_bfecgs.jpg

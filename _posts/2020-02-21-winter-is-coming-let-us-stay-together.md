@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Winter is coming, let us stay together
+description:  It could be that the situation is more critical than the global financial crisis 10 years ago, however let us love winter, for it is the spring of genius.
 date:   2020-02-21 21:03:35 +0800
 image:  https://res.cloudinary.com/dmfnzbe9x/image/upload/c_scale,w_730/v1583240439/WechatIMG19655_pfduqb.jpg
 optimized_image: https://res.cloudinary.com/dmfnzbe9x/image/upload/c_fill,h_171,w_325/v1583240439/WechatIMG19655_pfduqb.jpg
