@@ -10,7 +10,7 @@ bio: If you have any questions, please contact me at 13671595458 or email me at 
 twitter_username: jN8ohkZYyToX6GP
 instagram_username: lisastudio8
 # linkedin_username: thiagorossener
-medium_username: jN8ohkZYyToX6GP
+medium_username: lisa-studio
 ---
 
 
